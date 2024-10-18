@@ -30,4 +30,4 @@ done
 curl -k https://raw.githubusercontent.com/chubbyhippo/ideavimrc/refs/heads/main/.ideavimrc -o ~/.ideavimrc
 
 # install plugins
-curl -k https://raw.githubusercontent.com/chubbyhippo/intellij-settings/refs/heads/main/install-plugins-as.sh | /usr/bin/env sh
+curl -k https://raw.githubusercontent.com/chubbyhippo/android-studio-settings/refs/heads/main/install-plugins-as.sh | /usr/bin/env sh
