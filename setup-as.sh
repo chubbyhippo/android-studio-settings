@@ -23,10 +23,6 @@ do
     mkdir -p "$config_path/options/windows"
     curl -k https://raw.githubusercontent.com/chubbyhippo/intellij-settings/refs/heads/main/config/options/windows/keymap.xml -o "$config_path/options/windows/keymap.xml"
 
-    # install templates
-    mkdir -p "$config_path/templates"
-    curl -k https://raw.githubusercontent.com/chubbyhippo/intellij-settings/refs/heads/main/config/templates/java.xml -o "$config_path/templates/java.xml"
-
   fi
 done
 
