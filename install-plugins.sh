@@ -10,5 +10,6 @@ $cmd installPlugins \
 	IdeaVIM \
 	com.github.camork.fileExpander \
 	com.jetbrains.kmm \
+  com.julienphalip.ideavim.peekaboo \
 	com.joshestein.ideavim-quickscope \
 	eu.theblob42.idea.whichkey
