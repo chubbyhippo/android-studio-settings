@@ -11,6 +11,6 @@ $cmd installPlugins \
 	com.github.camork.fileExpander \
 	com.jetbrains.kmm \
     com.joshestein.ideavim-quickscope \
-  com.julienphalip.ideavim.peekaboo \
+    com.julienphalip.ideavim.peekaboo \
 	com.joshestein.ideavim-quickscope \
 	eu.theblob42.idea.whichkey
