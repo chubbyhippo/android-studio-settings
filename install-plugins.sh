@@ -5,10 +5,10 @@ cmd=studio
 if uname | grep -q "^MINGW"; then
   if command -v studio.cmd >/dev/null 2>&1; then
     cmd=studio.cmd
-  elif command -v webstorm64 >/dev/null 2>&1; then
+  elif command -v studio64 >/dev/null 2>&1; then
     cmd=studio.64
   else
-    echo "Warning: neither studio.cmd nor webstorm64 found, falling back to studio"
+    echo "Warning: neither studio.cmd nor studio64 found, falling back to studio"
   fi
 fi
 
