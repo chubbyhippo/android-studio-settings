@@ -14,9 +14,15 @@ fi
 
 $cmd installPlugins \
   IdeaVIM \
+  StringToolsPlugin \
+  com.fwdekker.randomness \
   com.github.camork.fileExpander \
   com.jetbrains.kmm \
   com.joshestein.ideavim-quickscope \
   com.julienphalip.ideavim.peekaboo \
+  com.joshestein.ideavim-quickscope \
   eu.theblob42.idea.whichkey \
-  io.flutter
+  indent-rainbow.indent-rainbow \
+  io.flutter \
+  izhangzhihao.rainbow.brackets.lite \
+  org.asciidoctor.intellij.asciidoc
