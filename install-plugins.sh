@@ -12,5 +12,5 @@ $cmd installPlugins \
   com.jetbrains.kmm \
   com.joshestein.ideavim-quickscope \
   com.julienphalip.ideavim.peekaboo \
-  com.joshestein.ideavim-quickscope \
-  eu.theblob42.idea.whichkey
+  eu.theblob42.idea.whichkey \
+  io.flutter
