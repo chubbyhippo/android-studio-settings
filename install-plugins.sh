@@ -3,7 +3,13 @@
 # plugins
 cmd=studio
 if uname | grep -q "^MINGW"; then
-  cmd="$HOME"/AppData/Local/JetBrains/Toolbox/scripts/studio.cmd
+  if command -v studio.cmd >/dev/null 2>&1; then
+    cmd=studio.cmd
+  elif command -v webstorm64 >/dev/null 2>&1; then
+    cmd=studio.64
+  else
+    echo "Warning: neither studio.cmd nor webstorm64 found, falling back to studio"
+  fi
 fi
 
 $cmd installPlugins \
