@@ -1,0 +1,8 @@
+= Android-Studio-settings
+:raw_android_studio_settings_url: https://raw.githubusercontent.com/chubbyhippo/android-studio-settings/refs/heads/main
+== Setup
+
+[source,shell,subs="attributes"]
+----
+curl -s {raw_android_studio_settings_url}/setup.sh | /usr/bin/env sh
+----
