@@ -17,6 +17,7 @@ $cmd installPlugins \
   StringToolsPlugin \
   com.fwdekker.randomness \
   com.github.camork.fileExpander \
+  com.intellij.marketplace \
   com.jetbrains.kmm \
   com.joshestein.ideavim-quickscope \
   com.julienphalip.ideavim.peekaboo \
