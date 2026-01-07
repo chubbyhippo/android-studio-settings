@@ -21,6 +21,7 @@ $cmd installPlugins \
   com.joshestein.ideavim-quickscope \
   com.julienphalip.ideavim.peekaboo \
   com.joshestein.ideavim-quickscope \
+  Dart \
   eu.theblob42.idea.whichkey \
   indent-rainbow.indent-rainbow \
   io.flutter \
