@@ -13,6 +13,7 @@ if uname | grep -q "^MINGW"; then
 fi
 
 $cmd installPlugins \
+  Dart \
   IdeaVIM \
   StringToolsPlugin \
   com.fwdekker.randomness \
@@ -20,9 +21,8 @@ $cmd installPlugins \
   com.intellij.marketplace \
   com.jetbrains.kmm \
   com.joshestein.ideavim-quickscope \
-  com.julienphalip.ideavim.peekaboo \
   com.joshestein.ideavim-quickscope \
-  Dart \
+  com.julienphalip.ideavim.peekaboo \
   eu.theblob42.idea.whichkey \
   indent-rainbow.indent-rainbow \
   io.flutter \
