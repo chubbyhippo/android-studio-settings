@@ -21,7 +21,6 @@ $cmd installPlugins \
   com.intellij.marketplace \
   com.jetbrains.kmm \
   com.joshestein.ideavim-quickscope \
-  com.joshestein.ideavim-quickscope \
   com.julienphalip.ideavim.peekaboo \
   eu.theblob42.idea.whichkey \
   indent-rainbow.indent-rainbow \
